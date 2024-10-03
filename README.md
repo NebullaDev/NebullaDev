@@ -36,8 +36,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,fastapi,firebase,git" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="" width="48" height="48"/>
   </a>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="" width="48" height="48"/>
 </p>
 <h3 align="center">Ocasionales</h3>
 <p align="center">
