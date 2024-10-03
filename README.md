@@ -11,10 +11,10 @@
   	<a href="mailto:jdpineda664@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   	</a>
-	<a href="https://www.linkedin.com/in/juan-diego-p-037260274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+	<a href="">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   	</a>
-	<a href="">
+	<a href="https://www.linkedin.com/in/juan-diego-p-037260274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   	</a>
 	<a href="">
