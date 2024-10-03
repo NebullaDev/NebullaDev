@@ -3,8 +3,7 @@
 <div align="center"> 
 	
   <img src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" align="right" alt="profile_image" width="320">
-  <p>
-		<strong>Soy un apasionado desarrollador de software Colombiano, especializado en la creación de soluciones con Python, aunque también poseo conocimientos esenciales en otros lenguajes de programación. Mi principal enfoque es la adquisición de conocimientos, buscando contribuir de manera continua dentro de proyectos innovadores o propios.</strong>
+  <p><strong>Soy un apasionado desarrollador de software Colombiano, especializado en la creación de soluciones con Python, aunque también poseo conocimientos esenciales en otros lenguajes de programación. Mi principal enfoque es la adquisición de conocimientos, buscando contribuir de manera continua dentro de proyectos innovadores o propios.</strong>
   </p>
   <br>
 	
@@ -60,9 +59,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PC1-3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PC1-3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PC1-3&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
 
