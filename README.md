@@ -3,7 +3,7 @@
 <div align="center"> 
 	
   <img src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" align="right" alt="profile_image" width="320">
-  <p><strong>Soy un apasionado desarrollador de software Colombiano, especializado en la creación de soluciones con Python, aunque también poseo conocimientos esenciales en otros lenguajes de programación. Mi principal enfoque es la adquisición de conocimientos, buscando contribuir de manera continua dentro de proyectos innovadores o propios.</strong>
+  <p><strong>Soy un apasionado desarrollador de software colombiano, especializado en la creación de soluciones utilizando Python, con conocimientos fundamentales en varios lenguajes de programación. Mi enfoque principal es contribuir tanto en proyectos colaborativos como en iniciativas propias, siempre buscando aprender y aplicar nuevos conocimientos para crear soluciones innovadoras y de impacto.</strong>
   </p>
   <br>
 	
