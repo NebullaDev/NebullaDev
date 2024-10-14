@@ -38,14 +38,7 @@
     <img src="https://skillicons.dev/icons?i=py,flask,fastapi,firebase,git" />
   </a>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="" width="48" height="48"/>
-</p>
-<h3 align="center">🕰Ocasionales🕰</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,nodejs,js,html,css,bootstrap,figma,bots,java,tailwind" />
-  </a>
-	<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="48" height="48" >
-</p>
+
 <h3 align="center">🛠Herramientas🛠</h3>
 <p align="center">
   <a href="https://skillicons.dev">
